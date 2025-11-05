@@ -1,0 +1,19 @@
+# Base Template v1.0
+
+Project: [Album or EP title]
+Track Concept: [Scene, emotion, or narrative cue]
+
+# LYRICS AND META TAGS FIELD
+[section label if needed]
+[write your lyric lines here]
+
+[tags: [thrash metal] [sludgecore] [distorted vocals] [feedback outro]]
+
+# STYLE PROMPT FIELD
+Describe how it should sound. Lead with the core idea.
+Then add texture, instruments, emotion, mix or structure notes.
+Keep within about 1000 characters.
+
+# VERSION NOTES
+Version: v1.0
+Notes: [What you changed, what to try next]
